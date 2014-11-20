@@ -9,6 +9,8 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+import ca.ualberta.cs.lonelytweet.NormalLonelyTweet;
+
 import android.content.Context;
 import android.util.Log;
 
